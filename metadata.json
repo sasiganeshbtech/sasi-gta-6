@@ -1,0 +1,6 @@
+{
+  "name": "ViceClip Studio",
+  "description": "GTA 6 live stream clipping studio with rolling replay buffer, moment tagging, 9:16 vertical Shorts reframing, and Vice City broadcast HUD overlays.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
